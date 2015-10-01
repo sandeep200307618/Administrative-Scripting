@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# created by SS to print out my extrenal ip address
+
+curl icanhazip.com
